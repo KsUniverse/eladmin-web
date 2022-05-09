@@ -205,7 +205,6 @@ export default {
     width: 33%;
     display: inline-block;
     height: 38px;
-    float: right;
     img{
       cursor: pointer;
       vertical-align:middle
